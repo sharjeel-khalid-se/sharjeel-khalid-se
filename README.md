@@ -9,7 +9,7 @@
 
 ## ⚡ About Me 
 - 🔭 &nbsp;Building full-stack apps with modern web tech 
-- 🌱 &nbsp;Currently leveling up in **TypeScript** & **System Design** - 💬 &nbsp;Ask me about React, Node.js, or anything JavaScript 
+- 🌱 &nbsp;💬 &nbsp;Ask me about React, Node.js, Next.js, TypeScript or anything JavaScript 
 - 📫 &nbsp;Reach me at: **sharjeel.khalid.se@gmail.com** - ⚡ &nbsp;Fun fact: I debug code at 2am and call it productivity 
 
 --- 
