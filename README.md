@@ -1,1 +1,59 @@
-<!-- Profile README for Sharjeel Khalid --> <h1 align="center"> Hey, I'm Sharjeel Khalid 👋 </h1> <h3 align="center"> Full Stack Developer · JavaScript · React · Node.js </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sharjeel.Khalid.se&color=blueviolet&style=flat-square" /> </p> --- ## ⚡ About Me - 🔭 &nbsp;Building full-stack apps with modern web tech - 🌱 &nbsp;Currently leveling up in **TypeScript** & **System Design** - 💬 &nbsp;Ask me about React, Node.js, or anything JavaScript - 📫 &nbsp;Reach me at: **your@email.com** - ⚡ &nbsp;Fun fact: I debug code at 2am and call it productivity --- ## 🛠️ Tech Stack <p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p> --- ## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sharjeel.Khalid.se&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharjeel.Khalid.se&layout=compact&theme=tokyonight&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharjeel.Khalid.se&theme=tokyonight&hide_border=true" /> </p> --- ## 🌐 Connect with Me <p align="center"> <a href="https://linkedin.com/in/YOUR_HANDLE"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://YOUR_PORTFOLIO.com"> <img src="https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> --- <p align="center"> <i>"First, solve the problem. Then, write the code."</i> </p>
+<h1 align="center"> Hey, I'm Sharjeel Khalid 👋 </h1> 
+<h3 align="center"> Full Stack Developer · JavaScript · React · Node.js </h3> 
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sharjeel-khalid-se&color=blueviolet&style=flat-square" /> 
+</p> 
+
+--- 
+
+## ⚡ About Me 
+- 🔭 &nbsp;Building full-stack apps with modern web tech 
+- 🌱 &nbsp;Currently leveling up in **TypeScript** & **System Design** - 💬 &nbsp;Ask me about React, Node.js, or anything JavaScript 
+- 📫 &nbsp;Reach me at: **your@email.com** - ⚡ &nbsp;Fun fact: I debug code at 2am and call it productivity 
+
+--- 
+
+## 🛠️ Tech Stack 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+</p> 
+
+--- 
+
+## 📊 GitHub Stats 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sharjeel-khalid-se&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeel-khalid-se&layout=compact&theme=tokyonight&hide_border=true" height="165" /> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel-khalid-se&theme=tokyonight&hide_border=true" /> 
+</p> 
+
+--- 
+
+## 🌐 Connect with Me 
+<p align="center"> 
+  <a href="https://linkedin.com/in/YOUR_HANDLE"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> 
+  <a href="https://YOUR_PORTFOLIO.com"> 
+    <img src="https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=vercel&logoColor=white" /> 
+  </a> 
+  <a href="mailto:your@email.com"> 
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a> 
+</p> 
+
+--- 
+
+<p align="center"> 
+  <i>"First, solve the problem. Then, write the code."</i> 
+</p>
