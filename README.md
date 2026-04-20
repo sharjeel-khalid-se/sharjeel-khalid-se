@@ -10,7 +10,7 @@
 ## ⚡ About Me 
 - 🔭 &nbsp;Building full-stack apps with modern web tech 
 - 🌱 &nbsp;Currently leveling up in **TypeScript** & **System Design** - 💬 &nbsp;Ask me about React, Node.js, or anything JavaScript 
-- 📫 &nbsp;Reach me at: **your@email.com** - ⚡ &nbsp;Fun fact: I debug code at 2am and call it productivity 
+- 📫 &nbsp;Reach me at: **sharjeel.khalid.se@gmail.com** - ⚡ &nbsp;Fun fact: I debug code at 2am and call it productivity 
 
 --- 
 
@@ -41,13 +41,13 @@
 
 ## 🌐 Connect with Me 
 <p align="center"> 
-  <a href="https://linkedin.com/in/YOUR_HANDLE"> 
+  <a href="https://linkedin.com/in/sharjeelac"> 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a> 
-  <a href="https://YOUR_PORTFOLIO.com"> 
+  <a href="https://sharjeelac.me"> 
     <img src="https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=vercel&logoColor=white" /> 
   </a> 
-  <a href="mailto:your@email.com"> 
+  <a href="mailto:sharjeel.khalid.se@email.com"> 
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a> 
 </p> 
