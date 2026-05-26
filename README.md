@@ -48,10 +48,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel-khalid-se&hide_border=true&ring=185FA5&fire=0f6e56&currStreakLabel=333333" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel-khalid-se&theme=default&hide_border=true&background=ffffff&ring=185FA5&fire=0f6e56&currStreakLabel=333333" />
 </p>
 
