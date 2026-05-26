@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185FA5&height=280§ion=header&text=Hi%20👋,%20I'm%20Sharjeel%20Khalid&fontSize=28&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20(MERN%20%2B%20Next.js)%20·%20Building%20for%20the%20web&descSize=14&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185FA5&height=180&section=header&text=Hi,%20I'm%20Sharjeel%20Khalid&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20(MERN%20%2B%20Next.js)%20%7C%20Building%20for%20the%20web&descSize=15&descAlignY=58&descColor=ffffff" width="100%" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sharjeel-khalid-se&label=Profile+Views&color=185FA5&style=flat-square)](https://github.com/sharjeel-khalid-se)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharjeel--khalid--dev-185FA5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sharjeel-khalid-dev)
