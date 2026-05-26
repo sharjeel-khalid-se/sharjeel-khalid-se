@@ -1,41 +1,75 @@
-<h1 align="center">Hi 👋, I'm Sharjeel Khalid</h1>
-<h3 align="center">Full-Stack Developer (MERN) Next.js | Building for the web</h3>
+<!-- Header -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharjeel-khalid-se&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeel-khalid-se" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185FA5&height=120§ion=header&text=Hi%20👋,%20I'm%20Sharjeel%20Khalid&fontSize=28&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20(MERN%20%2B%20Next.js)%20·%20Building%20for%20the%20web&descSize=14&descAlignY=70" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharjeel-khalid-se" alt="sharjeel-khalid-se" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=sharjeel-khalid-se&label=Profile+Views&color=185FA5&style=flat-square)](https://github.com/sharjeel-khalid-se)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharjeel--khalid--dev-185FA5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sharjeel-khalid-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sharjeelac.me-0f6e56?style=flat-square&logo=vercel)](https://sharjeelac.me)
+[![Instagram](https://img.shields.io/badge/Instagram-sharjeel.builds-E4405F?style=flat-square&logo=instagram)](https://instagram.com/sharjeel.builds)
 
-- 🔭 I’m currently working on [Frencesca Dimech Portfolio](https://github.com/sharjeel-khalid-se/francesca-dimech-portfolio)
+</div>
 
-- 🌱 I’m currently learning **Next.js**
+---
 
-- 👯 I’m looking to collaborate on **Open-source web apps**
+### 🧑‍💻 About Me
 
-- 🤝 I’m looking for help with **Building and scaling SaaS products**
+- 🔭 Working on **[Francesca Dimech Portfolio](https://github.com/sharjeel-khalid-se/francesca-dimech-portfolio)**
+- 🌱 Currently learning **Next.js** and deepening TypeScript
+- 👯 Looking to collaborate on **open-source web apps**
+- 🤝 Looking for help with **building and scaling SaaS products**
+- 👨‍💻 All of my projects are at **[sharjeelac.me](https://sharjeelac.me)**
+- 📝 I write on **[LinkedIn](https://www.linkedin.com/in/sharjeel-khalid-dev/)**
+- 💬 Ask me about **React.js, Node.js, Express, MongoDB, Next.js**
+- 📫 Reach me at **sharjeel.khalid.se@gmail.com**
+- 🎓 BS Software Engineering · Virtual University of Pakistan
+- ⚡ Fun fact: **Self-taught, no bootcamp — just consistency and curiosity**
 
-- 👨‍💻 All of my projects are available at [sharjeelac.me](sharjeelac.me)
+---
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sharjeel-khalid-dev/](https://www.linkedin.com/in/sharjeel-khalid-dev/)
+### 🛠️ Tech Stack
 
-- 💬 Ask me about **React.js , Node.js , Express , Mongodb , Next.js**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- 📫 How to reach me **sharjeel.khalid.se@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sharjeel-khalid-dev/](https://www.linkedin.com/in/sharjeel-khalid-dev/)
+### 📊 GitHub Stats
 
-- ⚡ Fun fact **Self-taught, no bootcamp, just consistency**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sharjeel-khalid-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeel-khalid-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/sharjeel.builds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharjeel.builds" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharjeel-khalid-se&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=185FA5&icon_color=0f6e56&text_color=333333" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeel-khalid-se&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=185FA5&text_color=333333" height="160" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel-khalid-se&theme=default&hide_border=true&background=ffffff&ring=185FA5&fire=0f6e56&currStreakLabel=333333" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharjeel-khalid-se&show_icons=true&locale=en&layout=compact" alt="sharjeel-khalid-se" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharjeel-khalid-se&show_icons=true&locale=en" alt="sharjeel-khalid-se" /></p>
+### 🤝 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel-khalid-se&" alt="sharjeel-khalid-se" /></p>
+<p align="left">
+<a href="https://linkedin.com/in/sharjeel-khalid-dev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/sharjeel.builds" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://sharjeelac.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0f6e56?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0f6e56&height=80§ion=footer" />
