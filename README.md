@@ -1,26 +1,23 @@
 <!-- Header -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185FA5&height=180&section=header&text=Hi,%20I'm%20Sharjeel%20Khalid&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20(MERN%20%2B%20Next.js)%20%7C%20Building%20for%20the%20web&descSize=15&descAlignY=58&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185FA5&height=180&section=header&text=Hi,%20I'm%20Sharjeel%20Khalid&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Freelance%20Web%20Dev%20%7C%20Learning%20AI%20Engineering&descSize=15&descAlignY=58&descColor=ffffff" width="100%" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sharjeel-khalid-se&label=Profile+Views&color=185FA5&style=flat-square)](https://github.com/sharjeel-khalid-se)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharjeel--khalid--dev-185FA5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sharjeel-khalid-dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sharjeelac.me-0f6e56?style=flat-square&logo=vercel)](https://sharjeelac.me)
 [![Instagram](https://img.shields.io/badge/Instagram-sharjeel.builds-E4405F?style=flat-square&logo=instagram)](https://instagram.com/sharjeel.builds)
-
 </div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 Working on **[Francesca Dimech Portfolio](https://github.com/sharjeel-khalid-se/francesca-dimech-portfolio)**
-- 🌱 Currently learning **Next.js** and deepening TypeScript
-- 👯 Looking to collaborate on **open-source web apps**
-- 🤝 Looking for help with **building and scaling SaaS products**
+- 🔭 Building a **[portfolio of high-converting websites for coaches & consultants](https://sharjeelac.me)** — targeting international freelance clients
+- 🌱 Currently learning **AI Engineering** — LLMs, RAG systems, and AI-powered web apps
+- 💼 Available for freelance work on **Upwork** — specializing in Next.js websites for coaches, consultants, and service businesses
 - 👨‍💻 All of my projects are at **[sharjeelac.me](https://sharjeelac.me)**
-- 📝 I write on **[LinkedIn](https://www.linkedin.com/in/sharjeel-khalid-dev/)**
-- 💬 Ask me about **React.js, Node.js, Express, MongoDB, Next.js**
+- 📝 I write about web dev and freelancing on **[LinkedIn](https://www.linkedin.com/in/sharjeel-khalid-dev/)**
+- 💬 Ask me about **React, Next.js, Node.js, Tailwind CSS, GSAP, Framer Motion**
 - 📫 Reach me at **sharjeel.khalid.se@gmail.com**
 - 🎓 BS Software Engineering · Virtual University of Pakistan
 - ⚡ Fun fact: **Self-taught, no bootcamp — just consistency and curiosity**
@@ -36,9 +33,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -67,4 +66,4 @@
 </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0f6e56&height=80§ion=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0f6e56&height=80&section=footer" />
